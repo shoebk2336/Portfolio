@@ -20,10 +20,20 @@ export const ProjectGrid=()=>{
         deployLink:"https://asconsultancybsl.in/",
         Tstack:['React','Redux','Chakra UI','Email JS']
         },
-        // {name:"Afreshia",image:"https://drive.google.com/uc?export=view&id=14Wjq6ybVqq7tPCV03ErfzH7ttxMfeVbq",
-        // description:"",
-        // stack:['React','Redux','Mantine','Routes']
-        // },
+        {name:"CypherX",
+        image:"https://drive.google.com/uc?export=view&id=12jhpFfxeZ5doUGcT1z1FKeTmLXb90s80",
+        description:"Introducing a sleek Kanban board app for seamless task management. Built with React, Vite, and Mantine UI, this application allows users to effortlessly organize tasks across stages. Experience real-time filtering and sorting, adding an extra layer of efficiency to your workflow. Welcome to a world where task management meets real-time responsiveness.",
+        gitLink:"https://github.com/shoebk2336/cypherx",
+        deployLink:"https://cypherx-green.vercel.app/",
+        Tstack:['React','Redux','Mantine','Routes']
+        },
+        {name:"Airbnb",
+        image:"https://drive.google.com/uc?export=view&id=1T27IdZ6Ngc_yWTyll2ZQiJX9wcMnH_tA",
+        description:"Welcome to the Airbnb Clone, a meticulously crafted application built with Next.js, Redux, and Mantine UI. This project is designed to offer users a seamless and intuitive experience when searching for accommodations. With a focus on simplicity and elegance, the Airbnb Clone brings key features to the forefront.",
+        gitLink:"https://github.com/shoebk2336/Airbnb",
+        deployLink:"https://airbnb-wilp.vercel.app/",
+        Tstack:['Next Js','Redux','Mantine','Mapbox']
+        },
     ]
     
 

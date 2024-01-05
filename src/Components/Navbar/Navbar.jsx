@@ -55,7 +55,7 @@ return (
         <Button 
         className={classes.btn}
         onClick={()=>handleDownload(
-        {link:"https://drive.google.com/file/d/1HukdR1lTEh8QK28jya1K7XCj84wWMwZg/view"})}>
+        {link:"https://drive.google.com/file/d/1MDGPm0LDH-EByXGasmUJOeg_Rj_Q1Ma0/view"})}>
         Resume</Button>
     
         </Group>
